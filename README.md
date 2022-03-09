@@ -2,20 +2,20 @@
 
 ## Table of Contents
 * [Background](#background)
-* [Findings](#findings)
+* [Questions](#questions)
   * [Which side wins more?](#which-side-wins-more)
   * [What is the average game length?](#average-game-length)
   * [What are the differences between blue and red side?](#blue-vs-red)
   * [What factors are most impactful to winning? (Win Correlations)](#win-correlations)
 * [Usage](#usage)
-* [Legality](#legality)
+
 
 ## Background
-League of Legends is a popular video game made by RIOT Games that I have been playing since beta in 2009. Since then, I have always tried finding new ways to get better at the game to climb up the ranking system. What if I could use data to gain an edge by discovering what contributes most to winning? Are there predetermined variables, such as which side you are on, that contribute to whether you win or not? 
+League of Legends is a popular video game made by RIOT Games that I have been playing since 2013. Since then, I have always tried finding new ways to get better at the game to climb up the ranking system. What if I could use data to gain an edge by discovering what contributes most to winning? Are there predetermined variables, such as which side you are on, that contribute to whether you win or not? 
 
-In this exploratory data analysis, I answer these questions. See you on the rift!
+In this data analysis, I answer these questions!
 
-## Findings
+## Questions
 
 ### Which side wins more?
 
@@ -46,7 +46,4 @@ Surprisingly, the correlation between wards placed/killed to wins is low. It's a
 
 ## Usage
 
-This project is best viewed in a notebook viewer, which can be accessed [here](https://nbviewer.jupyter.org/github/justinmlam/league-of-legends-match-eda/blob/master/league-of-legends-match-eda.ipynb). In this notebook, you will find a walk through of the work done and the respective code.
-
-## Legality
-This is a personal project made for non-commercial uses ONLY. This project will not be used to generate any promotional or monetary value for me, the creator, or the user.
+This project is best viewed in a notebook viewer, which can be accessed [here](https://nbviewer.org/github/davidcamilo0710/LeagueOfLegendsAnalysis/blob/42d88b777ab6ca2e8c40de22e810315ff85354a2/league-of-legends-EDA.ipynb). In this notebook, you will find a walk through of the work done and the respective code.
