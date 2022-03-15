@@ -47,3 +47,5 @@ Surprisingly, the correlation between wards placed/killed to wins is low. It's a
 ## Usage
 
 This project is best viewed in a notebook viewer, which can be accessed [here](https://nbviewer.org/github/davidcamilo0710/LeagueOfLegendsAnalysis/blob/42d88b777ab6ca2e8c40de22e810315ff85354a2/league-of-legends-EDA.ipynb). In this notebook, you will find a walk through of the work done and the respective code.
+
+
